@@ -3,7 +3,7 @@
 - 🔬 Currently working as a Research Assistant in Northeastern University in a Large Scale Data Mining Project.
 - 🌱 I’m currently at Northeastern University doing my Master's in Data Scince.
 - 💞️ I’m looking to collaborate on Machine Learning and Big Data Applications.
-- 🧑🏻‍💻 Currently looking for Summer 2023 Internships and Co-ops.
+- 🧑🏻‍💻 Currently looking for Full time opportunities.
 - 📫 How to reach me verma.shi@northeastern.edu
 
 <!---
